@@ -237,7 +237,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 2026729692, guid: 41a419e7282c4472aa51c645e36b21bc, type: 3}
+  m_Sprite: {fileID: 609775803, guid: 9cff3e75884eed64db810f4a49282669, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -260,7 +260,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   presetSprites:
-  - {fileID: 804680454, guid: 41a419e7282c4472aa51c645e36b21bc, type: 3}
+  - {fileID: -2111059784, guid: 9cff3e75884eed64db810f4a49282669, type: 3}
   presetColors: []
   changeAmount: 0
   consoleLog: 0
